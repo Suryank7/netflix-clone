@@ -64,6 +64,9 @@ To test the Netflix Clone project, follow these steps:
 -------------
 No API reference is provided, as the project is a static website and does not include any API functionality.
 
+## 🚀 Deployed Link  
+[👉 Visit vysta](https://vysta.netlify.app/)
+
 👤 Author
 -------
 The Netflix Clone project was created by [Suryank Malik](https://srynkdev.netlify.app/).
